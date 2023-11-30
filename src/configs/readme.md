@@ -1,0 +1,1 @@
+เอาไว้ config ต่างๆไว้ เช่น endpoint ของ services
